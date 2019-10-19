@@ -1,0 +1,8 @@
+.download_btn {
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 20px;
+    font-size: 18px;
+    position: relative;
+  }
